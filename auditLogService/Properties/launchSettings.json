@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AuditlogService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "MAAP_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

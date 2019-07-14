@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WorkshopManagementEventHandler": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
